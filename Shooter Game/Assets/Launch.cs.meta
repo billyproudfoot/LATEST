@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 27cdf1a78e43c7848b4e0bb38bc3e9e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - enemy1: {instanceID: 0}
+  - enemy2: {instanceID: 0}
+  - enemy3: {instanceID: 0}
+  - enemy4: {instanceID: 0}
+  - enemy5: {instanceID: 0}
+  - enemy6: {instanceID: 0}
+  - enemy7: {instanceID: 0}
+  - enemy8: {instanceID: 0}
+  - enemy9: {instanceID: 0}
+  - enemy10: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
